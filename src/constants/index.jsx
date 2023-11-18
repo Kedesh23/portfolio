@@ -15,8 +15,6 @@ import {
     redux,
     tailwind,
     git,
-    wordpress,
-    bootstrap,
     netlify,
     figma,
     avm,
@@ -105,14 +103,14 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "wordpress",
-      icon: wordpress,
-    },
-    {
-      name: "bootstrap",
-      icon: bootstrap,
-    },
+    // {
+    //   name: "wordpress",
+    //   icon: wordpress,
+    // },
+    // {
+    //   name: "bootstrap",
+    //   icon: bootstrap,
+    // },
   ];
   
   const experiences = [

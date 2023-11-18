@@ -44,9 +44,9 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-         <a href="https://github.com/omunite215"><img src={mylogo} alt="logo" className="w-9 h-9 object-contain" /></a> 
+         <a href="https://github.com/Kedesh23?tab=repositories"><img src={mylogo} alt="logo" className="w-9 h-9 object-contain" /></a> 
           <p className="text-white text-[18px] font-bold cursor-pointer flex">
-            Om &nbsp; <span className="sm:block hidden ">| omunite215</span>
+            Sevan &nbsp; <span className="sm:block hidden ">| Kedesh</span>
           </p>
         </Link>
 
